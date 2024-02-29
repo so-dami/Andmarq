@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andmarq/static/css/main.5168abec.css",
+    "main.js": "/andmarq/static/js/main.dbcc9d68.js",
+    "index.html": "/andmarq/index.html",
+    "main.5168abec.css.map": "/andmarq/static/css/main.5168abec.css.map",
+    "main.dbcc9d68.js.map": "/andmarq/static/js/main.dbcc9d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5168abec.css",
+    "static/js/main.dbcc9d68.js"
+  ]
+}
